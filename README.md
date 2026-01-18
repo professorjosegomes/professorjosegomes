@@ -30,5 +30,7 @@ Minha missão é unir a **Ciência do Território** com a **Tecnologia**. Atuo t
 
 Estou sempre aberto a parcerias que envolvam tecnologia no campo e educação.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-gomes-14ab5938
+
+)
+
