@@ -1,6 +1,6 @@
 ### Olá! Sou José Gomes 👋
 
-**Geógrafo (USP) | Empreendedor | Desenvolvedor de Negócios**
+**Inteligência Artificial na UFMS e Geógrafo (USP) | Empreendedor | Desenvolvedor de Negócios**
 
 Minha missão é unir a **Ciência do Território** com a **Tecnologia**. Atuo transformando dados geográficos e engenharia em soluções de alto valor para o agronegócio e o setor imobiliário rural.
 
@@ -8,8 +8,8 @@ Minha missão é unir a **Ciência do Território** com a **Tecnologia**. Atuo t
 
 ### 🔭 Atualmente trabalhando em:
 
-* **[GeoAngels Agro](https://geoangels.com.br)**: Plataforma de inteligência geográfica e curadoria de propriedades rurais (Scouting & Valuation).
-* **5S Terraplanagem**: Modernizando a infraestrutura rural com uso de Drones e Modelagem 3D.
+* ** Desenvolvimento de Agentes de IA
+* **5S Terraplanagem**: Mineração de dados para a infraestrutura rural com uso de Drones e Modelagem 3D.
 * **BioEmpreende**: Fomentando inovação e carreiras em Ciências da Vida.
 
 ### 🛠️ Tech & Ferramentas:
