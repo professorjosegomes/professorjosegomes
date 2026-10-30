@@ -1,36 +1,58 @@
-### Olá! Sou José Gomes 👋
+# Hi there, I'm José Gomes! 👋
 
-**Inteligência Artificial na UFMS e Geógrafo (USP) | Empreendedor | Desenvolvedor de Negócios**
+### AI Developer & Spatial Technologist | Entrepreneur & Venture Builder
 
-Minha missão é unir a **Ciência do Território** com a **Tecnologia**. Atuo transformando dados geográficos e engenharia em soluções de alto valor para o agronegócio e o setor imobiliário rural.
-
----
-
-### 🔭 Atualmente trabalhando em:
-
-* ** Desenvolvimento de Agentes de IA
-* **5S Terraplanagem**: Mineração de dados para a infraestrutura rural com uso de Drones e Modelagem 3D.
-* **BioEmpreende**: Fomentando inovação e carreiras em Ciências da Vida.
-
-### 🛠️ Tech & Ferramentas:
-
-* **Core:** Geoprocessamento, Análise de Dados Espaciais, Gestão de Projetos Ágeis.
-* **Web & Code:** HTML5/CSS3 (Tailwind), JavaScript, Python (Foco em dados).
-* **IoT & Hardware:** Drones para mapeamento, Sensores para Agricultura de Precisão.
-
-### 🌱 Interesses & Estudos:
-
-* Inteligência Artificial aplicada à prospecção mineral e imobiliária.
-* Soluções ESG e Crédito de Carbono.
-* Desenvolvimento de Startups e Venture Building.
+Bridging **Territorial Science**, **Artificial Intelligence**, and **Financial Markets**. I build data-driven systems, autonomous AI agents, and geospatial architectures to solve high-impact challenges across agribusiness, rural real estate, and earthmoving operations.
 
 ---
 
-### 📫 Vamos conversar?
+### 🎓 Background & Expertise
 
-Estou sempre aberto a parcerias que envolvam tecnologia no campo e educação.
+- 🧠 **Artificial Intelligence** at UFMS
+- 🌍 **B.S. in Geography** from USP
+- 📈 **MBA in Finance & Capital Markets**
+- 💡 **Postgrad in New Technologies & Systems Integration**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-gomes-14ab5938
+---
 
-)
+### 🔭 Currently Working On
+
+- 🤖 **Autonomous AI Agents**: Designing agentic workflows and tool-augmented LLM architectures.
+- 🚜 **5S Terraplanagem**: Geospatial intelligence and spatial data mining for rural infrastructure via drone photogrammetry and 3D terrain modeling.
+- 🧬 **BioEmpreende**: Driving venture building, technological commercialization, and deep tech innovation in Life Sciences & HealthTech.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+**Core & Geotechnologies:**
+- GIS & Spatial Analysis (QGIS, Spatial Data Pipelines)
+- Remote Sensing, Photogrammetry & LiDAR / Drone Surveying
+- Agile Project Management & Technical Feasibility Modeling
+
+**Programming & Data:**
+- Python (Spatial Data, Automation, Computer Vision)
+- JavaScript / Modern Web (Tailwind CSS, Zero-Dependency Stacks)
+- API Integrations, Webhooks & Automated ETL Workflows
+
+**IoT, Hardware & Edge:**
+- Microcontrollers (ESP32), Environmental Sensors & Precision Ag
+- Aerial Photogrammetry & Multispectral Drone Surveying
+- Mineral & Field Prospecting Instrumentation
+
+---
+
+### 🌱 Research & Strategic Focus
+
+- AI applied to mineral prospecting, land subdivision, and automated valuation models (AVMs).
+- ESG frameworks, spatial verification for carbon credits, and environmental compliance.
+- Deep Tech startup venture studios, angel syndicates, and spin-off architecture.
+
+---
+
+### 📫 Connect With Me
+
+I am always keen to collaborate on cutting-edge geospatial projects, AI agent ecosystems, and technology applied to land and rural infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-gomes-14ab5938)
 
